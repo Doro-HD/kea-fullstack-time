@@ -6,3 +6,5 @@ app.use(express.static('public'))
 app.get('/', (req, res) => {
 
 })
+
+module.exports = app
