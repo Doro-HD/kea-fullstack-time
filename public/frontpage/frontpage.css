@@ -1,0 +1,19 @@
+body {
+  background-color: WhiteSmoke;
+}
+
+.selected {
+  background-color: Gainsboro;
+}
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+}
+
+.highscore-table {
+  border: solid black
+}
